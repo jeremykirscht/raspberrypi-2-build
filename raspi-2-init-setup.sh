@@ -26,3 +26,5 @@ sudo apt install zram-tools
 # Install Tailscale
 curl -fsSL https://tailscale.com/install.sh | sh
 
+# Install PiHole
+curl -sSL https://install.pi-hole.net | bash
